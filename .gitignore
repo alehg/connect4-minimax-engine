@@ -1,0 +1,40 @@
+# Build artifacts
+build/
+dist/
+*.jar
+*.class
+
+# NetBeans project files
+nbproject/
+build.xml
+
+# Temporary runtime files (IPC communication)
+estado.txt
+dif.txt
+salida.txt
+SALIDA.TXT
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Manifest file (generated)
+manifest.mf
+
+# Other temporary files
+*.log
+*.tmp
+
